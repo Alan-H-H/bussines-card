@@ -34,7 +34,8 @@ body {
      */
 }
 .card:hover{
-    bacbackground: lightgrey;
+   border-top: 6px solid red;
+    border-bottom: 6px solid red;
 }
 .card.clicked{
     background: grey;
