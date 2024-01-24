@@ -11,7 +11,7 @@ body {
 .avatar {
     width: 170px;
     border-radius: 5.7em;
-    border: 1ox solid lightgrey;
+    border: 0.7px solid lightgrey;
 }
 
 .card {
