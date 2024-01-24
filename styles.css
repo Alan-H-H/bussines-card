@@ -32,7 +32,7 @@ body {
     and use it in your business card.
      */
 }
-.card :hover{
+.card:hover{
     bacbackground: lightgrey;
 }
 .card.clicked{
