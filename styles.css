@@ -10,8 +10,8 @@ body {
 
 .avatar {
     width: 170px;
-    border-radius: 4.7em;
-    
+    border-radius: 5.7em;
+    border: 1ox solid lightgrey;
 }
 
 .card {
@@ -33,10 +33,14 @@ body {
      */
 }
 .card :hover{
-    margin: 10px auto;
     bacbackground: lightgrey;
 }
-
+.card.clicked{
+    background: grey;
+}
+.card.clicked:hover{
+    background: gainsboro;
+}
 .border-blue {
     border: 1px dotted blue;
 }
