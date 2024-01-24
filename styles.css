@@ -40,7 +40,11 @@ body {
 .border-blue {
     border: 1px dotted blue;
 }
-
+a{
+    color: #ff8478;
+    bacbackground: lightgrey;
+    padding: 0.7 em;
+}
 /*
 Stretch goals:
 Find other ways you can personalize 
