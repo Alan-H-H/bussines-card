@@ -10,6 +10,8 @@ body {
 
 .avatar {
     width: 170px;
+    border-radius: 0.7em;
+    
 }
 
 .card {
@@ -31,9 +33,7 @@ body {
 }
 .card :hover{
     margin: 10px auto;
-}
-.avatar :hover{
-    width: 180px; 
+    bacbackground: lightgrey;
 }
 
 .border-blue {
